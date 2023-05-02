@@ -52,8 +52,6 @@ Vet Clinic Database is a relational database to store animals' information, inse
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Not Available](<replace-with-your-deployment-URL>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -188,8 +186,6 @@ I would like to thank microverse for providing me the template for this project
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](https://github.com/Progress2002/Vet-clinic-database/blob/Dev/LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://github.com/Lucash2022/Vet-clinic/blob/clinic/LICENSE) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

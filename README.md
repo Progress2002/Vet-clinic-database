@@ -146,6 +146,12 @@ Example:
 - Twitter: [@Progress_2002](https://twitter.com/Progress_2002)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/progress-ezeamaka-27b114247)
 
+👤 **SENOU Kodjo Matthieu**
+
+- GitHub: [@Matthieu96Code](https://github.com/Matthieu96Code)
+- Twitter: [@MatthieuSENOU](https://twitter.com/MatthieuSenou)
+- LinkedIn: [Kodjo Matthieu SENOU](https://www.linkedin.com/in/kodjo-matthieu-senou/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->

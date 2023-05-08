@@ -30,3 +30,33 @@ ADD COLUMN species_id INTEGER REFERENCES species(id);
 
 ALTER TABLE animals
 ADD COLUMN owner_id INTEGER REFERENCES owners(id);
+
+ALTER TABLE animals ADD CONSTRAINT FK_owners FOREIGN KEY(owner_id) REFERENCES owners(id);
+
+CREATE TABLE  vets (
+  id int GENERATED ALWAYS AS IDENTITY,
+  name varchar(60),
+  age int,
+  date_of_graduation date,
+  primary key(id)
+);
+
+CREATE TABLE specializations (
+  id int primary key GENERATED ALWAYS AS IDENTITY,
+  species_id int REFERENCES species(id),
+  vets_id int REFERENCES vets(id) 
+);
+
+CREATE TABLE visits (
+  id int primary key GENERATED ALWAYS AS IDENTITY,
+  animals_id int REFERENCES animals(id),
+  vets_id int REFERENCES vets(id),
+  visit_date date
+);
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status

@@ -28,6 +28,10 @@
 
 Vet Clinic Database is a relational database to store animals' information, insert data nd query data for processing
 
+## Schema Diagram
+
+<img src="./vet_clinic.png" align="center">
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
